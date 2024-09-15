@@ -319,9 +319,9 @@ public class Main {
 
         // Arrays Bidimensionais
         int[][] matrix = {
-                {1, 2, 3},
-                {3, 5, 6},
-                {10, 11, 10}
+                {10, 20, 35},
+                {30, 50, 60},
+                {70, 80, 90}
         };
 
 //        for (int[] row : matrix){
@@ -368,6 +368,16 @@ public class Main {
                 linha += col + " ";
             }
             System.out.println(linha);
+        }
+
+        // Procurar elemento em uma matrix
+        int valorProcurado = 80;
+        for (int i = 0; i < matrix.length; i++){
+            for (int j = 0; j < matrix[i].length; j++){
+                if(matrix[i][j] == valorProcurado) {
+                    System.out.println("Elemento procurado " + valorProcurado + " encontrado na linha " + i + " na coluna " + j);
+                }
+            }
         }
 
     }
