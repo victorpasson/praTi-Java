@@ -1,6 +1,6 @@
-# +praTi e Codifica - Módulo 5 - Atividade 7
+# +praTi e Codifica - Módulo 5 - Atividade 8
 
-Repositório com a resolução da primeira lista de exercícios do Módulo 5. Exercícios referentes a estrutura de dados.
+Repositório com a resolução da segunda lista de exercícios do Módulo 5. Exercícios referentes a orientação a objetos.
 
 # Execução
 
@@ -10,6 +10,7 @@ Repositório com a resolução da primeira lista de exercícios do Módulo 5. Ex
 
 # Definição
 
-- Lista Simples Encadeada;
-- Lista Duplamente Encadeada;
-- Filas;
+- Encapsulamento;
+- Herança;
+- Polimorfismo;
+- Abstração.
